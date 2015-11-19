@@ -9,9 +9,14 @@ The bullets below provide a flyover view of the broad areas where code has been 
 
 The focus since revisiting development an Apple platforms in 2010 has been design iterations from the inside out - tackling the toughest design problems - even if the solutions are not the most stylish, user visible ones. Specific design aspects as examples are key internal framework decisions in the data pipelines as well as building a better intuition about what makes sense to approach in Objective-C or Swift.
 
-# Screens
+# Works in Progress - Screen Transitions
+
+- Filters
 
 ![Clip](./StillImageFilter.gif)
+
+- Capture, Filter and Detection (first steps)
+
 ![Clip](./BarTab.gif)
 
 
